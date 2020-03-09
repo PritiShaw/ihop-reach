@@ -1,4 +1,4 @@
-## PMC Highlighter Chrome Extension
+## Highlight PMC Chrome Extension
 
 *Features* : Highlights the extracted sentence in the article page in the library.
 
